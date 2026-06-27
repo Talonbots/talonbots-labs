@@ -17,6 +17,13 @@ Cost-control on a free credit is a feature here, not an afterthought.
 
 > The apply→record→destroy loop is shared across all series: `../../shared/apply-record-destroy.sh`.
 
+## Episodes
+
+| # | Episode | What |
+|---|---------|------|
+| 00 | `episodes/00-bootstrap` | Service-principal auth + remote tfstate backend |
+| 01 | `episodes/01-telegram-bot-aci` | A Telegram bot on ACI — one `apply` builds (ACR) + deploys, one `destroy` removes it all |
+
 ## Prerequisites
 
 - [Terraform](https://developer.hashicorp.com/terraform/install) >= 1.6

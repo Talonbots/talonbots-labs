@@ -32,7 +32,7 @@ Each platform directory is self-contained: its own `episodes/`, `modules/`,
 
 | Platform | Status | First episode |
 |----------|--------|---------------|
-| Azure | live | `platforms/azure/episodes/00-bootstrap` — SP auth + remote tfstate |
+| Azure | live | `00-bootstrap` (SP auth + remote tfstate) · `01-telegram-bot-aci` (bot on ACI, one-apply) |
 | GCP | planned | — |
 | AWS | planned | — |
 | Oracle Cloud | planned | — |

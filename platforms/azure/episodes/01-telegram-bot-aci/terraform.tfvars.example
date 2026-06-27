@@ -1,0 +1,16 @@
+# Copy to terraform.tfvars (gitignored) and fill in the token.
+# Or just export TF_VAR_telegram_bot_token=<token> and skip this file.
+
+# Get a bot token from @BotFather on Telegram:
+#   1. Open Telegram, search for @BotFather
+#   2. Send /newbot, follow the prompts
+#   3. Copy the token (looks like 123456789:AAAA...)
+telegram_bot_token = "REPLACE_WITH_YOUR_BOT_TOKEN"
+
+# Optional overrides (defaults are fine):
+# location             = "eastus"
+# resource_group_name  = "rg-telegram-bot-demo"
+# container_group_name = "aci-telegram-bot"
+# acr_name_prefix      = "acrtbot"
+# image_tag            = "latest"
+# expires              = "2026-06-27"
