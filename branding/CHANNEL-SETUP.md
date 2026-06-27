@@ -23,7 +23,7 @@ Channel already created (Brand Account, named **TalonBots Labs**):
 | **Handle** | `@TalonBotsLabs`  (fallbacks: `@TalonBots_Labs`, `@TalonBotsLab`) |
 | **Contact email** | `hello@talonbots.com` |
 | **Link — Website** | `https://talonbots.com` |
-| **Link — GitHub** | `https://github.com/Talonbots` |
+| **Link — GitHub** | `https://github.com/TalonBots` |
 
 ### Description (long) — 924 chars (YouTube limit 1000)
 ```
@@ -39,14 +39,14 @@ What you'll find here:
 - Cost-controlled cloud across Azure, GCP, AWS, Oracle, and Proxmox
 - Honest walkthroughs, including the parts that break
 
-Every video has a matching repo at github.com/Talonbots. Fork it, deploy it, then destroy it.
+Every video has a matching repo at github.com/TalonBots. Fork it, deploy it, then destroy it.
 
 Automate everything. Nuke the evidence.
 ```
 
 ### Description (short / preview card)
 ```
-Bots and automation on every cloud — deployed with real IaC, filmed, then destroyed before the bill arrives. Azure, GCP, AWS, Oracle, Proxmox, AI agents. Every episode has a matching repo at github.com/Talonbots. Automate everything. Nuke the evidence.
+Bots and automation on every cloud — deployed with real IaC, filmed, then destroyed before the bill arrives. Azure, GCP, AWS, Oracle, Proxmox, AI agents. Every episode has a matching repo at github.com/TalonBots. Automate everything. Nuke the evidence.
 ```
 
 ### Branding tab — image assets
@@ -71,7 +71,7 @@ All paths are under `~/projects/talonbots-labs/`.
 ## Already done (no action needed)
 - ✅ GitHub org `Talonbots` — public, profile README live (logo + tagline + spine + series table)
 - ✅ Org avatar uploaded (neon raptor) — may need a hard refresh (`Ctrl-Shift-R`) to show
-- ✅ Repo `github.com/Talonbots/talonbots-labs` (mirror of Gitea `admin/talonbots-labs`)
+- ✅ Repo `github.com/TalonBots/talonbots-labs` (mirror of Gitea `admin/talonbots-labs`)
 - ✅ `hello@talonbots.com` → your Gmail (Cloudflare Email Routing, live)
 
 ## Open items

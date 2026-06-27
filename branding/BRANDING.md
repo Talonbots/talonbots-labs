@@ -6,7 +6,8 @@
 ## ✅ LOCKED DECISIONS (Sun, 2026-06-26)
 - **Logo direction:** "Terminal Raptor" — neon-cyan raptor on black, dark CLI/hacker aesthetic (Direction 2). Clean production marks: **`logo-r3a-raptor-neon.png` = hero**, **`logo-r3b-raptor-bold.png` = avatar/favicon crop** (both regenerated without the garbled-text artifact of the original `logo-draft-2`).
 - **Brand spine (content theme): Option C** — "TalonBots Labs deploys production-grade bots and agents across every major cloud — reproducibly, cost-consciously, and without surprises."
-- **Tagline: #4** — "Automate everything. Nuke the evidence." (cheeky voice; pair with the professional spine C for sponsor-facing copy).
+- **Tagline: #4** — "Automate everything. Nuke the evidence." (primary/brand). **Positioning line: #1** — "Deploy. Destroy. Repeat." (process/footer). See §2 for which goes where.
+- **Display casing: `TalonBots`** (capital B) in ALL human-facing copy and shown URLs (`github.com/TalonBots`). ⚠️ The GitHub org was created as slug **`Talonbots`** (lowercase b). GitHub is case-insensitive so `github.com/TalonBots` resolves fine — but for a true canonical match, **recommend renaming the org to `TalonBots`** (Org → Settings → rename; Sun's action). Functional/literal refs (git remote, raw asset URLs, API calls) keep the real slug until the rename.
 
 ---
 
@@ -79,17 +80,19 @@ It leads with the hero (the bot/agent), immediately signals the cost-control ang
 | 11 | **Code it. Ship it. Shred it.** | Punchy |
 | 12 | **Where bots land and bills don't.** | Punchy |
 
-**Top pick: #1 — "Deploy. Destroy. Repeat."**
-Three words. All verbs. Captures the entire format without explanation. Rolls off the tongue, looks great on channel art, works as a hashtag (#DeployDestroyRepeat). The imperative voice gives it energy.
+**DECIDED (2026-06-26) — two taglines, two jobs:**
+- **Primary / brand tagline: #4 — "Automate everything. Nuke the evidence."** This is the personality line. It goes on the banner sub-head, the channel About, and episode end cards. Memorable, irreverent, on-voice. (Originally flagged "darker"; chosen anyway as the brand voice — keep it off sponsor-facing decks if it ever reads wrong.)
+- **Positioning / process line: #1 — "Deploy. Destroy. Repeat."** The plain-English description of the format. Use it as the banner *footer*, in chapter cards, and the hashtag (#DeployDestroyRepeat). It explains; #4 sells.
 
-**Runner-up: #4 — "Automate everything. Nuke the evidence."**
-More personality, but slightly darker — good for X posts and episode end cards, maybe not the primary tagline.
+This resolves the earlier doc-vs-art mismatch: the banner now carries #4 as the sub-head and #1 as supporting copy, matching this decision.
 
 ---
 
 ## 3. Visual Identity
 
-### Direction 1 — "Precision Strike" (Recommended)
+> **CHOSEN: Direction 2 — "Terminal Raptor" (neon cyan on black).** This is what shipped (logo, avatar, banner, favicons). The original draft below listed Direction 1 as "recommended" — that recommendation is **superseded**. Do NOT generate navy/strike-red assets; the brand palette is neon cyan (#22D0F0-ish) on near-black. Directions 1/3/4 are kept below for reference only.
+
+### Direction 1 — "Precision Strike" (NOT chosen — superseded by Direction 2)
 
 **The Mark:** A geometric falcon/raptor head in profile, rendered as a minimal 3–4 polygon flat icon. The beak is sharp and forward-facing. Overlaid inside the chest/body area is a tiny circuit-trace or terminal-bracket `>_` motif — subtle, only visible at 64px+. At 16px, it reads as a clean raptor silhouette.
 
@@ -117,7 +120,7 @@ Light bg:    #F5F5F5  (light mode fallback)
 
 ---
 
-### Direction 2 — "Terminal Raptor" (Dark Hacker Aesthetic)
+### Direction 2 — "Terminal Raptor" (Dark Hacker Aesthetic) ✅ CHOSEN
 
 **The Mark:** The word `talonbots` rendered in a terminal-accurate monospace font with a blinking cursor `_` appended. Above it, a stylized ASCII-art-style raptor (not actual ASCII — clean vector that *suggests* ASCII). The overall shape reads like a loading screen or CLI prompt banner.
 
